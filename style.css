@@ -1,0 +1,13 @@
+form{
+    margin: 40px;
+}
+.btn{
+    margin-top: 10px;
+}
+label{
+    font-style: italic;
+    font-weight: bolder;
+}
+.checkB{
+    margin: 50px 60px;
+}
